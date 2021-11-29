@@ -11,3 +11,6 @@ Following are the key points that are used this project:
 7.	Testing Locally 
 
 For socket programming, server.py and client.py file is created. The IP address of server is bound to client's file. And the same port is used in both client and server file so that client and server establishes connection between them. The system module is imported so that it creates the same environment as command prompt. Using this system module, the server can read,write and overwrite the files of client PC's. This creates a new environment for both server and client to establish connection and remotely access the files and modify them. It is used to rectify, scan and debug the problems that client PC's face.
+
+## Server-Client Architecture
+![](https://github.com/Dipesh-Pokhrel/Networking-with-Python/blob/44801a92dd084187a35f365051f05fa7d4b86bc4/Socket%20programmg/socket.jpg)
